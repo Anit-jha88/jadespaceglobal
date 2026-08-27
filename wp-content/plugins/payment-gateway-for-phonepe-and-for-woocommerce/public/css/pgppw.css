@@ -1,0 +1,37 @@
+.wc_pgppw_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+}
+.wc_pgppw_container p {
+    flex: 1 1 100%;
+    margin-top: 10px !important;
+    text-align: center;
+    margin-bottom: 10px !important;
+}
+.wc_pgppw_container img {
+    height: 56px;
+    max-height: 77px !important;
+    max-width: 150px;
+    width: 110px;
+}
+#payment .payment_methods li label[for="payment_method_pgppw_phonepe"] img {
+    margin-left: 8px;
+    height: 25px;
+}
+.phonepe_checkout_notice {
+    padding: 5px 5px;
+    line-height: 1.6;
+}
+.phonepe_checkout_notice small {
+    display: block;
+    margin-top: 6px;
+    color: #777;
+    font-size: 12px;
+}
+.phonepe_checkout_notice p {
+    margin-bottom: 10px;
+    color: red;
+    font-size: 14px;
+}

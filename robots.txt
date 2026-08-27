@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jadespaceglobal.com/sitemap.xml

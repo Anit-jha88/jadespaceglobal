@@ -1,0 +1,1 @@
+[13-May-2026 20:18:36 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/elementor/modules/wp-rest/classes/user-query.php on line 4

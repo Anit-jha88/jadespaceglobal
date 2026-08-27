@@ -1,0 +1,14 @@
+2026-08-19T08:03:10+00:00 INFO Email "new_order" for order #1033 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":1033}
+2026-08-19T08:03:10+00:00 INFO Email "customer_on_hold_order" for order #1033 sent CONTEXT: {"email_type":"customer_on_hold_order","status":"sent","recipient":"guest","order":1033}
+2026-08-19T08:15:07+00:00 INFO Email "new_order" for order #1034 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":1034}
+2026-08-19T08:15:07+00:00 INFO Email "customer_on_hold_order" for order #1034 sent CONTEXT: {"email_type":"customer_on_hold_order","status":"sent","recipient":"guest","order":1034}
+2026-08-19T08:25:46+00:00 INFO Email "new_order" for order #1035 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":1035}
+2026-08-19T08:25:46+00:00 INFO Email "customer_processing_order" for order #1035 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"guest","order":1035}
+2026-08-19T08:33:32+00:00 INFO Email "customer_completed_order" for order #1035 sent CONTEXT: {"email_type":"customer_completed_order","status":"sent","recipient":"guest","order":1035}
+2026-08-19T08:39:27+00:00 INFO Email "customer_invoice" for order #1035 sent CONTEXT: {"email_type":"customer_invoice","status":"sent","recipient":"guest","order":1035}
+2026-08-19T09:36:58+00:00 INFO Email "new_order" for order #1039 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":1039}
+2026-08-19T09:36:58+00:00 INFO Email "customer_processing_order" for order #1039 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"guest","order":1039}
+2026-08-19T10:02:58+00:00 INFO Email "customer_new_account" for user #122 sent CONTEXT: {"email_type":"customer_new_account","status":"sent","recipient":"ajaysingh1907","user":122}
+2026-08-19T10:03:41+00:00 INFO Email "customer_new_account" for user #123 sent CONTEXT: {"email_type":"customer_new_account","status":"sent","recipient":"rrangnathmishra","user":123}
+2026-08-19T10:23:15+00:00 INFO Email "new_order" for order #1041 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"admin","order":1041}
+2026-08-19T10:23:15+00:00 INFO Email "customer_processing_order" for order #1041 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"ajaysingh1907","order":1041}

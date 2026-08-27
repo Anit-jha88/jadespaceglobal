@@ -1,0 +1,4 @@
+[29-Jun-2026 21:57:30 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/flexible-shipping/vendor_prefixed/wpdesk/wp-mutex/src/WPDesk/Mutex/search.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/flexible-shipping/vendor_prefixed/wpdesk/wp-mutex/src/WPDesk/Mutex/search.php on line 18

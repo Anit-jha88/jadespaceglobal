@@ -1,0 +1,161 @@
+.pgppw-phonepe-collapsible-section {
+    cursor: pointer;
+    padding: 10px 19px;
+    background: white;
+    color: #2c3e50;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 0.3s, color 0.3s, border 0.3s;
+    max-width: 862px;
+    margin: 10px 0px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;
+    font-size: 14px !important;
+}
+.pgppw-phonepe-collapsible-section:after {
+    content: '';
+    display: inline-block;
+    width: 24px; /* Increased width for larger size */
+    height: 24px; /* Increased height for larger size */
+    mask: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-hidden="true" focusable="false"><path d="M480-345 240-585l56-56 184 184 184-184 56 56-240 240Z"/></svg>') no-repeat center;
+    -webkit-mask: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-hidden="true" focusable="false"><path d="M480-345 240-585l56-56 184 184 184-184 56 56-240 240Z"/></svg>') no-repeat center;
+    background-color: black; /* Color for the arrow */
+    transition: transform 0.3s;
+    transform: rotate(0deg); /* Default: Right-facing arrow */
+}
+.pgppw-phonepe-collapsible-section.active:after {
+    transform: rotate(180deg); /* Active: Down-facing arrow */
+}
+.pgppw-phonepe-collapsible-section.active:after {
+    transform: rotate(180deg); /* Active: Down-facing arrow */
+}
+.form-table {
+    max-width: 900px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(30, 30, 30);
+    outline: none;
+    margin-bottom: 10px !important;
+    margin-top: 0px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;
+}
+.woocommerce table.form-table th {
+    padding-left: 20px;
+}
+.list {
+    list-style-type: circle;
+    margin-left: 42px;
+}
+p.submit {
+    display: block !important;
+}
+table tr:last-child td {
+    padding-bottom: 30px; /* Adjust spacing as needed */
+}
+table tr:first-child td {
+    padding-top: 25px; /* Adjust spacing as needed */
+}
+table tr:first-child th {
+    padding-top: 30px; /* Adjust spacing as needed */
+}
+.select2-search__field {
+    min-width: 400px !important;
+}
+table::after {
+    content: '';
+    display: block;
+    height: 20px; /* Adjust the height as needed */
+}
+.woocommerce table.form-table .forminp {
+    display: table-cell !important;
+    position: relative;
+}
+#woocommerce_wpg_paypal_checkout_description {
+    width: 600px;
+    resize: vertical;
+}
+.wrap.woocommerce ul.subsubsub {
+    display:none;
+}
+.wrap.woocommerce ul.subsubsub + br.clear {
+    display: none !important;
+}
+h3.pgppw-phonepe-collapsible-section.active {
+    background-color: #f6f6f6;
+    color: #000;
+}
+.pgppw-phonepe-signup-box {
+    
+    padding: 0px 20px;
+    
+}
+
+.pgppw-phonepe-signup-box h4 {
+    margin: 12px 0 6px;
+    font-size: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: #1d2327;
+}
+
+.pgppw-phonepe-signup-box .description {
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #555d66;
+}
+
+.pgppw-register-btn {
+    padding: 6px 16px;
+    font-size: 13px;
+    border-radius: 4px;
+}
+
+.pgppw-copy-wrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.pgppw-copy-label {
+    font-size: 12px;
+    color: #50575e;
+    flex: 0 0 100%;
+    margin-bottom: 2px;
+}
+
+.pgppw-copy-input {
+    flex: 1;
+    min-width: 280px;
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #2c3338;
+}
+
+.pgppw-copy-link {
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.pgppw-phonepe-signup-box hr {
+    margin: 16px 0;
+    border: 0;
+    border-top: 1px solid #e2e4e7;
+}
+
+.pgppw-phonepe-signup-box p.description:last-of-type {
+    margin-top: 8px;
+    font-size: 13px;
+    color: #646970;
+}
+
+

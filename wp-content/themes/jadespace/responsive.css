@@ -1,0 +1,894 @@
+
+
+@media screen and (max-width:1600px) {
+    .trapSec {     
+        padding-top: 8rem;
+        padding-bottom: 30.2rem;
+    }
+  }  
+  
+  @media screen and (max-width:1590px) {
+    h1{
+        font-size: 20rem;        
+    }
+    .bannerCont h1{
+        line-height: 24rem;
+    }
+    .navbar-nav>li {
+        position: relative;
+        margin-right: 3rem;
+    }
+  
+    .navbar-nav>li:last-child {
+        margin-right: 2.6rem;
+    }
+  
+    .navmenu .navbar-brand {    
+        padding-left: 0rem;
+    }
+  
+    .slide-arrow.prev-arrow {        
+        margin-right: 4rem;
+    }
+    .slide-arrow.next-arrow {
+        margin-left: 4rem;
+    }
+    .bigTxt h1 {
+        font-size: 22rem;     
+        line-height: 12rem;
+     }
+  
+    
+  
+  }
+  
+  @media screen and (max-width:1300px){
+    .bannerCont h2 {  
+      font-size: 6.5rem; 
+      margin-top: 4rem;
+  }
+  .sectionFour {  
+    padding-top: 11.4rem;
+  }
+
+  .slide-arrow.next-arrow{
+    margin-left: 0;
+  }
+  .slide-arrow.prev-arrow {
+    margin-right: 0rem;
+}
+
+.navmenu .navbar-brand {
+  padding-left: 0rem;
+}
+.navbar-nav>li {  
+  margin-right: 2.5rem;
+} 
+
+}
+
+@media screen  and (max-width:1200px){
+  html{
+    font-size: 60%;
+  }
+  .navbar-nav>li {
+    margin-right: 2rem;
+}
+.navmenu .navbar-brand {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: -0;
+  margin: auto;
+  text-align: center;
+  width: 100px;
+}
+.navmenu{
+  padding-bottom: 4rem;
+}
+.navmenu .navbar{
+  padding-top: 3rem;
+}
+.seachIcon, .social_icon {
+  position: relative;
+  padding-left: 1.4rem;
+}
+
+.navBtn a {
+  margin-right: 2rem;
+}
+
+
+/* banner */
+.bannerCont h2 {
+  font-size: 5.5rem;
+  margin-top: 2rem;
+}
+
+.card_box.three .lftImg {
+  position: absolute;
+  top: 17px;
+  left: 1rem;
+  width: 17rem;
+}
+
+
+.cardSec .cardCont .btn img{
+  width: 5rem;
+}
+
+.cardSec .cardCont .btn {
+  margin-left: 0rem;
+}
+.cardSec .cardCont h2{
+  padding-left: 0;
+}
+
+.card_box.one .cardCont h2{
+  padding-left: 3rem;
+}
+.card_box.one .cardCont .btn{
+  margin-left: 3rem;
+}
+
+
+.sectionFour {
+  padding-top: 9.4rem;
+  padding-bottom: 9.8rem;
+}
+
+
+
+.trapSec .col-md-7.offset-md-5 {
+  width: 70%;
+  max-width: 70%;
+  flex: 0 0 70%;
+  margin-left: 30%;
+}
+
+.trapSec .trapGun { 
+  right: 8%;   
+  width: 45%; 
+}
+.bigTxt h1 {
+  font-size: 18rem;
+  line-height: 17rem;
+}
+
+.imgtwo {
+  width: 62%; 
+}
+
+.secFimg {
+  position: absolute;
+  left: 0;
+  top: 12.7rem;
+  width: 50%;
+  height: 57.3rem;
+  margin-left: 1.5rem;
+  padding-right: 5rem;
+}
+
+.dealerSec .container.bigContainer{
+  padding-right: 15px;
+}
+.dealerSec .dlrCont {
+  margin-top: 0rem;
+}
+
+.brnd_heading{
+  padding: 0;
+  margin-bottom: 5rem;
+}
+.logoRow .brndBox {
+  min-width: auto;
+  width: 30%;
+  height: 14rem;
+  margin-bottom: 3rem;
+}
+.innerGap {
+  padding-top: 7.5rem;
+  padding-bottom: 7rem;
+}
+
+.contactSec .contBox .txt .atag.num {
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: 700;
+}
+
+.trapSec .trapImg{
+  width: 50%;
+}
+
+
+}
+
+  
+ 
+  
+  
+  @media screen and (max-width:991px){
+    html{
+        font-size: 56%;
+    }
+  h1{
+    font-size: 6rem;
+    line-height: 6.5rem;
+  }
+  h2{
+    font-size: 3.5rem;
+    line-height: 5rem;
+  }
+  h3{
+    font-size: 4rem;
+    line-height: 3rem;
+  }
+  
+  
+  /* for responsive menu start */
+  .navbar-nav>li.current-menu-item>a::after, .navbar-nav>li>a:hover::after {
+    content: '';
+    width: 100%;
+  }
+  
+  
+  .navbar-toggler {
+    position: relative;
+    outline: 0;
+    box-shadow: none;
+    width: 3.5rem;
+    z-index: 101;
+  }
+  
+  .bars, .bars::after, .bars::before {
+    width: 3.5rem;
+    height: 0.2rem;
+    background: var(--defaultColor);
+    position: absolute;
+    left: 0;
+    top: auto;
+    transition: all 0.6s;
+    border-radius: 0px;
+  }
+  
+  .navmenu.stickyTop .navbar-nav>li>a {
+    color: var(--defaultColor);
+    
+  }
+  .navmenu.stickyTop .btn-search img{
+    filter: invert(0);
+    -webkit-filter: invert(0);
+    -moz-filter: invert(0);
+  }
+  .navmenu.stickyTop .bars, .navmenu.stickyTop .bars::after, .navmenu.stickyTop .bars::before{
+    background: var(--defaultColor);
+  }
+  
+  
+  .navbar-toggler .bars::before {
+    content: '';
+    top: -10px;
+    left: 0;
+  }
+  .navbar-toggler .bars::after {
+    content: '';
+    top: 10px;
+    left: 0;
+  }
+  
+  .navbar-toggler .bars.toggleMenu::after {
+    transform: rotate(-45deg) translate(42px, 28px);
+    background: var(--defaultColor);
+  }
+  .navbar-toggler .bars.toggleMenu::before {
+    transform: rotate(45deg) translate(42px, -28px);
+    background: var(--defaultColor);
+  }
+  
+  .bars.toggleMenu{
+    transform: translateX(-50px);
+    background: transparent !important;
+  }
+  #navOvarly{
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    margin: 0;
+    padding: 0 !important;
+    z-index: 99;
+    transition: 0.5s linear;
+  }
+  
+  #navOvarly.toggleMenu{
+    display: block;
+  }
+  
+  .navbar-collapse{
+    background: rgba(57, 57, 57,0.8);
+    position: fixed;
+    top: 0;
+    height: 100% !important;
+    width: 60rem;
+    overflow-y: auto;
+    transition: inherit !important;
+    right: -1px;
+    margin: 0;
+    display: block !important;
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    -webkit-transition: transform 0.2s ease-in-out !important;
+    transition: transform 0.2s ease-in-out !important;
+    z-index: 100;
+  }
+  
+  .navbar-collapse.collapse.show{
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%);
+  }
+  .navbar-nav {
+    margin-top: 10rem;
+    
+  }
+  .navbar-collapse {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  .navbar-nav>li>a{
+    color: #fff;
+    font-size: 2.5rem;
+  }
+  .navbar-nav>li{
+    margin-bottom: 3rem;
+    margin-right: 0;
+  }
+  .navbar-nav>li>a::after{
+    bottom: -5px;
+  } 
+
+  .menu-right{
+      display: block;
+  }
+ 
+.navbar-toggler{
+  outline: 0 !important;
+}
+ 
+  /* for responsive menu end */
+  
+
+ 
+  .navmenu .navbar-brand{
+    position: relative;
+    margin: 0;
+    
+  }
+
+  .navmenu .navbar {
+    padding-top: 0rem;
+    margin-top: 1.7rem;
+}
+.navmenu {
+  padding-bottom: 1.7rem;
+}
+.social_icon::after{
+  width: 0 !important;
+  
+}
+.navBtn .social_icon{
+  padding-left: 0;
+  display: none;
+}
+
+.navBtn.inCollapse, .navBtn.inCollapse .social_icon{
+  display: block;
+}
+
+.navBtn { 
+  margin-top: 0rem;
+}
+
+.navmenu.stickyTop .navbar-nav>li>a { 
+  display: inline-block;
+}
+ 
+.menu-right {
+  position: fixed;
+  right: 8rem;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  min-width: 77%;
+  justify-content: flex-end;
+}
+.menu-right .navbar-nav{
+  margin-top: 0;
+  width: auto;
+  flex-direction: row;
+}
+.menu-right  .navBtn{
+  width: auto;
+  margin-top: 0;
+}
+.menu-right .navbar-nav>li{
+  margin-bottom: 0;
+  margin-right: 2rem;
+}
+.menu-right .navbar-nav>li a{
+  font-size: 2rem;
+}
+
+.navbar-nav>li a{
+  display: inline-block;
+}
+
+/* banner */
+
+.bannerCont h1{
+  font-size: 19rem;
+  line-height: 18rem;
+}
+.bannerCont h2 {
+  font-size: 4.5rem;
+  margin-top: 4rem;
+}
+.bannerSec .bannerImg img {  
+  height: 80.8rem; 
+}
+
+.card_box.four .backImg img {
+  width: 100%;
+  height: 37rem;
+  object-fit: cover;
+  object-position: center;
+}
+.card_box.three .lftImg {
+  position: absolute;
+  top: 0;
+  left: 0rem;
+  width: 14rem;
+}
+.card_box.three .cardCont {
+  width: 70%;
+  padding-left: 0rem;
+  bottom: 4.5rem;
+}
+.card_box.three .cardCont h2{
+  margin-bottom: 2rem;
+}
+
+.trapSec .col-md-7.offset-md-5 {
+  width: 100%;
+  max-width: 100%;
+  flex: 0 0 100%;
+  margin-left: 0;
+}
+
+.trpCont .btn {
+  border-radius: 0.4rem;
+  margin-top: 1.8rem;
+  height: 4.5rem;
+  width: 13.6rem;
+  padding: 0;
+  line-height: 4.5rem;
+  margin-left: auto;
+  display: block;
+}
+.trpCont p{
+  text-align: justify;
+}
+
+.sectionFour{
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.secFimg {
+  position: absolute;
+  left: 0;
+  top: 7rem;
+}
+
+.sectionFour h3{
+  margin-bottom: 2rem;
+}
+.imgtwo{
+  width: 87%;
+}
+
+.innerBanner .bannerCont {
+  z-index: 2;
+  padding-top: 23rem;
+}
+.bannerSec.innerBanner h1 {
+  font-size: 5.5rem;
+  line-height: 5.5rem;
+}
+.innerGap {
+  padding-top: 7.5rem;
+  padding-bottom: 5rem;
+}
+
+.logoRow .brndBox {
+  min-width: auto;
+  width: 29.55%;
+  height: 14rem;
+  margin-bottom: 3rem;
+  padding: 3rem;
+}
+
+
+.contactSec .row{
+    justify-content: center;
+}
+.contactSec .contBox { 
+  margin-bottom: 4rem;
+  align-items: flex-start;
+}
+
+.contactSec [class*='col-']:last-child .contBox { 
+  margin-bottom: 0rem;
+}
+
+.frmBox {
+  padding: 6rem 4.5rem;
+  margin-top: 7.5rem;
+}
+.woocommerce .woocommerce-Addresses.col2-set .col-1, .woocommerce-page .woocommerce-Addresses.col2-set .col-1, .woocommerce .woocommerce-Addresses.col2-set .col-2, .woocommerce-page .woocommerce-Addresses.col2-set .col-2 {
+
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+
+}
+.woocommerce-checkout form.checkout_coupon.woocommerce-form-coupon button.button {
+    height: 49px;}
+ 
+.logoRow.brandliveclass .brndBox{
+  flex-basis: 50%;
+  max-width: 50%;
+}
+
+
+  }
+
+  
+  
+  @media screen and (max-width:767px) {
+        html{
+            font-size: 50%;
+        }
+        
+        .bars, .bars::after, .bars::before{
+          width: 3rem;
+        }
+        .navbar-toggler .bars::before {
+          content: '';
+          top: -7px;
+          left: 0;
+      }
+      .navbar-toggler .bars::after {
+        content: '';
+        top: 7px;
+        left: 0;
+    }
+
+    .navbar-toggler .bars.toggleMenu::after {
+      transform: rotate(-45deg) translate(41px, 27px);
+      background: var(--defaultColor);
+  }
+  .navbar-toggler .bars.toggleMenu::before {
+    transform: rotate(45deg) translate(37px, -31px);
+    background: var(--defaultColor);
+}
+
+        .menu-right .navbar-nav {          
+          width: auto;          
+      }
+      .menu-right .navBtn {
+        width: auto;
+      }
+      .seachIcon::after, .social_icon::after{
+        width: 1px;
+      }
+      .seachIcon, .social_icon{
+        padding: 0 1rem;
+      }
+      .navBtn a {
+        margin-right: 0.4rem;        
+    }
+
+    .menu-right {     
+      right: 7rem;
+       justify-content: flex-end;     
+  }
+
+
+  .menu-right .navbar-nav>li a i{
+    font-size: 2rem;
+    color: #fff;
+    display: none;
+  }
+  .navmenu .seachIcon a {
+    width: 2.5rem;
+}
+
+.navmenu .navbar-brand{
+  width: 8rem;
+}
+
+
+.btn{
+  height: 4.4rem;
+    line-height: 3.5rem;
+}
+/* banner sec */
+.bannerSec .bannerImg img {
+  height: 53.8rem;
+}
+.bannerCont{
+  padding-top: 20rem;
+}
+.bannerCont h1{
+  font-size: 9rem;
+  line-height: 7rem;
+}
+
+.bannerCont .content img {
+  top: 4rem;
+}
+
+.bannerCont h2 {
+  font-size: 2.5rem;
+}
+.card_box.three .cardCont {
+  width: 70%;
+}
+.card_box.three .lftImg {
+  position: absolute;
+  top: 17px;
+  left: 1rem;
+  width: 12rem;
+}
+
+.card_box.four .backImg img {
+  width: 100%;
+  height: 37rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.trpCont h2{
+  font-size: 4.7rem;
+  text-align: center;
+}
+
+
+.trapSec .trapGun {
+  right: 7px;
+  width: 42%;
+}
+.bigTxt h1 {
+  font-size: 11rem;
+  line-height: 8rem;
+}
+.secFimg {
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100%;
+  padding: 0 15px;
+  margin-left: 0;
+  height: auto;
+  margin-bottom: 3rem;
+}
+.sectionFour .col-md-6.offset-md-6.pl-0{
+  padding-left: 15px !important;
+}
+
+.trapSec {
+  padding-top: 6rem;
+}
+  
+.sectionFour  .contF {
+  text-align: center;
+}
+.gap {
+  padding: 7.2rem 0;
+}
+.btmTxt .quickLink a{
+  padding: 0 1rem;  
+  line-height: 2.5rem;
+}
+.btmTxt p{
+  line-height: 2.5rem;
+}
+.socialIcons {
+  margin-top: 3.7rem;
+  margin-bottom: 3.1rem;
+}
+.footerSec .logoBox {
+  margin: auto;
+  margin-bottom: 4.8rem;
+  width: 44%;
+}
+.footerSec{
+  padding-top: 4.6rem;
+}
+.footerSec input{
+  height: 6rem;
+}
+.dealerSec .col-md-4{
+  order: -1;
+  margin-bottom: 4rem;
+}
+
+
+.logoRow .brndBox {
+  min-width: auto;
+  width: 43.5%;
+  height: 10rem;
+}
+
+.commingS .headingComing h2{
+  font-size: 6rem;
+  line-height: 6.6rem;
+}
+
+.cardSec .row {
+  margin: 0 -15px;
+  margin-bottom: -4rem;
+}
+.cardSec [class*="col-"]{
+  padding:0 15px;
+  padding-bottom: 4rem;
+}
+.woocommerce-page #customer_details, .woocommerce .col2-set, .woocommerce-page .col2-set{margin-right: 0;margin-left: 0;}
+  .woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1, .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0 0;
+  }
+  
+  .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2{margin-top: 30px;}
+.woocommerce-checkout form.checkout_coupon.woocommerce-form-coupon button.button {
+    height: 43px;}
+    .woocommerce #payment #place_order, .woocommerce-page #payment #place_order{width: auto;}
+    .woocommerce-MyAccount-content{padding-top: 25px;}
+    .woocommerce-account fieldset {
+    margin-top: 30px;
+}
+.post-type-archive-product .prd_Sec{padding-top: 40px;}
+
+
+
+
+
+  }
+  
+  
+  
+  @media screen and (max-width:575px) {
+    .navbar-collapse{
+        width: 260px;
+    }
+    a.navbar-brand {
+        width: 12rem;
+    }    
+  
+    .srvCard {
+        min-height: auto;
+     
+    }
+   .commingS .ftrBottom{
+      padding:5rem 0;
+  }
+  .commingS .socialIcons{
+    margin-top: 0;
+  }
+
+  .contactSec .contBox{
+    display: block;
+    text-align: center;
+    
+  }
+  .contactSec .contBox .icon{
+    margin: auto;
+  }
+  .contactSec .contBox .txt{
+    width: 100%;
+    padding:0 3rem;
+    margin-top: 2rem;
+  }
+  .frmBox h3{
+    line-height: 5rem;
+    margin-bottom: 4rem;
+  }
+  
+  .frmBox {
+    padding: 6rem 1.5rem; 
+  }
+  .frmBox .btnRow { 
+    margin-top: 1.5rem;
+  }
+
+
+  .trapSec .trapImg{
+    width: 65%;
+  }
+  .single-product .summary.entry-summary .price .woocommerce-Price-amount.amount bdi {font-size: 33px;
+    line-height: 36px;}
+     .single-product .product_title.entry-title {font-size: 31px;
+    line-height: 33px; margin-bottom: 21px;}
+    .single-product .woocommerce-product-details__short-description {
+    margin-bottom: 35px;
+}
+.single-product .price {
+    margin-bottom: 18px;
+}
+.accordion-container .set > a{font-size: 15px;}
+
+.prodsliderlatestlive ul.slick-dots{
+  position: static;
+  padding: 0;
+  margin: 0;
+  margin-top: 10px;
+}
+
+  } 
+
+
+
+
+  @media screen and (max-width:450px) {
+    .menu-right .navbar-nav>li a{
+      font-size: 0rem;
+      line-height: 0;
+    }
+    .menu-right .navbar-nav>li a i{
+      display: block;
+      font-size: 2.5rem;
+    }
+    .navBtn a {
+      margin-right: 1rem;
+      font-size: 2.5rem;     
+  }
+
+  .logoRow .brndBox {
+    min-width: auto;
+    width: 43.5%;
+    height: 10rem;
+    margin-right: 1.3rem;
+}
+.woocommerce-checkout h3 {
+    font-size: 3rem; margin-bottom: 20px;}
+    .woocommerce-checkout form.checkout_coupon.woocommerce-form-coupon button.button {
+    height: 35px; padding: 9px 11px;
+}
+.alldefoultpagess {
+    padding: 34px 0px;
+}
+.dfd .prd_col .prdesc {padding: 0px;}
+.dfd .prd_col .prdesc h3{    font-size: 13px;     line-height: 17px;}
+.post-type-archive-product .woocommerce-result-count, .woocommerce-page .woocommerce-result-count {
+    float: none;
+    margin-bottom: 0px;
+    margin-bottom: 8px;
+}
+.post-type-archive-product .woocommerce-ordering, .woocommerce-page .woocommerce-ordering{float: none;}
+.post-type-archive-product .dfd .productcontentdetail h3{font-size: 25px;
+    line-height: 30px;}
+  }
+  
+  @media screen and (max-width:320px) {
+    html{
+        font-size: 40%;
+    }
+  }
+  
+  

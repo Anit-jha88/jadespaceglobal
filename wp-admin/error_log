@@ -1,0 +1,696 @@
+[20-Jun-2024 20:47:30 UTC] WordPress database error Unknown column 'ja_' in 'field list' for query SELECT ja_
+[01-Jul-2024 18:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:667
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 667
+[01-Jul-2024 18:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:667
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 667
+[01-Jul-2024 18:39:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:42:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:48:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 18:49:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "my_modify_qrcodes_table" not found or invalid function name in /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#9 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php on line 324
+[01-Jul-2024 18:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insertArrayAtPosition() in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:647
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): my_modify_qrcodes_table(Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(756): apply_filters('manage_qrcodes_...', Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): WP_Posts_List_Table->get_columns(Array)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/screen.php(37): apply_filters('manage_edit-qrc...', Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(998): get_column_headers(Object(WP_Screen))
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-screen.php(959): WP_Screen->show_screen_options()
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin-header.php(281): WP_Screen->render_screen_meta()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(411): require_once('/home2/mkstecfw...')
+#10 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 647
+[01-Jul-2024 19:07:52 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:57 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:57 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:692
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): wcl_insert_car(192, Object(WP_Post), true)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4839): do_action('wp_insert_post', 192, Object(WP_Post), true)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4930): wp_insert_post(Array, false, true)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(453): wp_update_post(Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 692
+[01-Jul-2024 19:07:59 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:07:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:08:00 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:08:00 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 677
+[01-Jul-2024 19:09:04 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:04 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:06 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:06 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:06 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:06 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:08 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:08 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:08 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:693
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): wcl_insert_car(192, Object(WP_Post), true)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4839): do_action('wp_insert_post', 192, Object(WP_Post), true)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4930): wp_insert_post(Array, false, true)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(3699): wp_update_post(Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post.php(260): wp_trash_post(192)
+#7 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 693
+[01-Jul-2024 19:09:11 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:11 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:11 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:11 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:13 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:13 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:693
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): wcl_insert_car(186, Object(WP_Post), true)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4839): do_action('wp_insert_post', 186, Object(WP_Post), true)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4930): wp_insert_post(Array, false, true)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(3699): wp_update_post(Array)
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post.php(260): wp_trash_post(186)
+#7 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 693
+[01-Jul-2024 19:09:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:09:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:10:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:10:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:10:57 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:10:57 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:11:13 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:11:13 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:14 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:14 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:25 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:25 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:25 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:25 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:28 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:28 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:29 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:29 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:31 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:31 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:32 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:32 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:40 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:40 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:40 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:40 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:41 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:41 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:51 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:51 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:52 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:52 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:58 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:58 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:59 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:59 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:13:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:00 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:00 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:00 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:00 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:01 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:01 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:05 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:05 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:07 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:07 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:07 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:07 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:07 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:07 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:08 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:08 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:09 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:09 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:09 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:09 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:09 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:09 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:12 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:12 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:14 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:14 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:14 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:14 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:14 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:14 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:15 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:15 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:16 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:16 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:16 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:16 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:16 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:16 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:17 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:17 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:20 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:20 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:21 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:21 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:25 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:25 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:27 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:27 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:27 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:27 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:28 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:28 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:32 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:32 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:34 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:34 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:34 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:34 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:36 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:36 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:36 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:36 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:47 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:47 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:47 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:47 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:50 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:50 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:53 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:53 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:53 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:53 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:56 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:56 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:57 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:57 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:58 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:58 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:58 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:14:58 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:13 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:13 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:15 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:15 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:28 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:28 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:44 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:44 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:45 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:45 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:47 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:47 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:47 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:47 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:48 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:48 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:50 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:50 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:53 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:53 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:53 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:53 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:56 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:56 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:57 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:57 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:58 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:58 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:58 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:15:58 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:13 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:13 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:44 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:44 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:47 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:47 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:48 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:48 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:49 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:49 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:49 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:49 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:50 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:50 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:52 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:52 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:16:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:06 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:06 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:06 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:06 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:06 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:06 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:16 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:16 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:22 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:22 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:48 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:48 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:50 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:50 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:50 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:50 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:51 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:51 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:54 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:54 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:55 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:55 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:59 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:59 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:59 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:17:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:03 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:03 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:04 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:04 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:04 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:04 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:20 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:18:20 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:19:17 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:19:17 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:20:21 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:20:21 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:02 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:03 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:03 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:03 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:03 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:06 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:06 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:10 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:10 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:10 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:10 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:18 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:18 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:23 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:23 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:25 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:25 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:702
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(201, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 201, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 702
+[01-Jul-2024 19:21:44 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:44 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:45 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:45 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:46 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:46 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:48 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:48 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:702
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(202, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 202, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 702
+[01-Jul-2024 19:22:26 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:26 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:703
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(203, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 203, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 703
+[01-Jul-2024 19:22:38 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:38 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:703
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(204, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 204, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 703
+[01-Jul-2024 19:22:50 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:50 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:694
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(205, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 205, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 694
+[01-Jul-2024 19:22:52 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:22:52 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:694
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(206, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 206, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 694
+[01-Jul-2024 19:23:24 UTC] PHP Warning:  include(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:23:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 2
+[01-Jul-2024 19:23:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:2) in /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/misc.php on line 1439
+[01-Jul-2024 19:23:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:2) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 7099
+[01-Jul-2024 19:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "QRcode" not found in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:703
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): qrcodes_post_save_action(207, Object(WP_Post), false)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-includes/post.php(4817): do_action('save_post_qrcod...', 207, Object(WP_Post), false)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/post.php(759): wp_insert_post(Array, false, false)
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/post-new.php(66): get_default_post_to_edit('qrcodes', true)
+#6 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 703
+[01-Jul-2024 19:33:35 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "qrcodes_upload_image_callback" not found or invalid function name in /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-admin/admin.php(259): do_action('qrcodes_page_qr...')
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(10): require_once('/home2/mkstecfw...')
+#4 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php on line 324
+[01-Jul-2024 19:34:57 UTC] PHP Warning:  Undefined array key "qrcodename" in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 740
+[01-Jul-2024 19:34:57 UTC] PHP Warning:  Undefined variable $msg in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 767
+[01-Jul-2024 19:35:31 UTC] PHP Warning:  Undefined array key "qrcodename" in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 740
+[01-Jul-2024 19:35:31 UTC] PHP Warning:  Undefined variable $msg in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 767
+[01-Jul-2024 19:36:16 UTC] PHP Warning:  Undefined array key "qrcodename" in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 707
+[01-Jul-2024 19:36:16 UTC] PHP Warning:  Undefined variable $msg in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 734
+[01-Jul-2024 19:36:29 UTC] PHP Warning:  Undefined array key "qrcodename" in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 707
+[01-Jul-2024 19:37:25 UTC] PHP Warning:  Undefined array key "qrcodename" in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 707
+[06-Jul-2024 19:02:24 UTC] PHP Warning:  Undefined variable $explode in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 662
+[06-Jul-2024 19:02:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:662
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): custom_qrcodes_column('qrcode', 323)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(1398): do_action('manage_qrcodes_...', 'qrcode', 323)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-list-table.php(1796): WP_Posts_List_Table->column_default(Object(WP_Post), 'qrcode')
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(1432): WP_List_Table->single_row_columns(Object(WP_Post))
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(834): WP_Posts_List_Table->single_row(Object(WP_Post), 0)
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(810): WP_Posts_List_Table->_display_rows(Array, 0)
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-list-table.php(1706): WP_Posts_List_Table->display_rows()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-list-table.php(1633): WP_List_Table->display_rows_or_placeholder()
+#10 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(503): WP_List_Table->display()
+#11 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 662
+[06-Jul-2024 19:03:03 UTC] PHP Warning:  Undefined variable $explode in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 662
+[06-Jul-2024 19:03:03 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:662
+Stack trace:
+#0 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(324): custom_qrcodes_column('qrcode', 323)
+#1 /home2/mkstecfw/jadespaceglobal.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home2/mkstecfw/jadespaceglobal.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(1398): do_action('manage_qrcodes_...', 'qrcode', 323)
+#4 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-list-table.php(1796): WP_Posts_List_Table->column_default(Object(WP_Post), 'qrcode')
+#5 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(1432): WP_List_Table->single_row_columns(Object(WP_Post))
+#6 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(834): WP_Posts_List_Table->single_row(Object(WP_Post), 0)
+#7 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-posts-list-table.php(810): WP_Posts_List_Table->_display_rows(Array, 0)
+#8 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-list-table.php(1706): WP_Posts_List_Table->display_rows()
+#9 /home2/mkstecfw/jadespaceglobal.com/wp-admin/includes/class-wp-list-table.php(1633): WP_List_Table->display_rows_or_placeholder()
+#10 /home2/mkstecfw/jadespaceglobal.com/wp-admin/edit.php(503): WP_List_Table->display()
+#11 {main}
+  thrown in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 662
+[06-Jul-2024 20:18:05 UTC] PHP Fatal error:  Cannot redeclare register_custom_routes() (previously declared in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:712) in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 760
+[06-Jul-2024 20:18:33 UTC] PHP Fatal error:  Cannot redeclare register_custom_routes() (previously declared in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:712) in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 760
+[06-Jul-2024 20:18:49 UTC] PHP Fatal error:  Cannot redeclare register_custom_routes() (previously declared in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:712) in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 760
+[06-Jul-2024 20:20:50 UTC] PHP Fatal error:  Cannot redeclare register_custom_routes() (previously declared in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:712) in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 760
+[06-Jul-2024 20:22:51 UTC] PHP Fatal error:  Cannot redeclare register_custom_routes() (previously declared in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:712) in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 760
+[06-Jul-2024 20:24:52 UTC] PHP Fatal error:  Cannot redeclare register_custom_routes() (previously declared in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php:712) in /home2/mkstecfw/jadespaceglobal.com/wp-content/themes/jadespace/functions.php on line 761
+[27-Apr-2026 08:26:57 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[27-Apr-2026 08:39:04 UTC] PHP Warning:  Undefined array key "comment" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 667
+[28-May-2026 19:18:42 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[28-May-2026 19:31:34 UTC] PHP Warning:  Undefined array key "comment" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 667
+[01-Jun-2026 16:37:53 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[01-Jun-2026 16:52:19 UTC] PHP Warning:  Undefined array key "comment" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 667
+[15-Jun-2026 12:53:59 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[15-Jun-2026 13:05:18 UTC] PHP Warning:  Undefined array key "comment" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 667
+[17-Jun-2026 18:22:18 UTC] [YayCrossSell] late register() for 'filebird-dashboard-cross-sell' — already past plugins_loaded; module will not load
+[17-Jun-2026 18:22:18 UTC] [YayCrossSell] late register() for 'filebird-notification-cross-sell' — already past plugins_loaded; module will not load
+[17-Jun-2026 18:22:18 UTC] [YayCrossSell] late register() for 'filebird-sidebar-popup-cross-sell' — already past plugins_loaded; module will not load
+[04-Jul-2026 14:42:53 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[04-Jul-2026 14:56:34 UTC] PHP Warning:  Undefined array key "comment" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 667
+[12-Jul-2026 07:53:43 UTC] WordPress database error Duplicate entry 'wc_installing' for key 'option_name' for query INSERT INTO ja_options (option_name, option_value, autoload) VALUES ('wc_installing', 1783842823, 'no') made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_lock
+[12-Jul-2026 07:55:27 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:28 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:29 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:30 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:31 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:32 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:33 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:34 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:35 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:36 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:36 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:37 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:38 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:39 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:39 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:41 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:41 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:42 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:42 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:42 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:43 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[12-Jul-2026 07:55:44 UTC] PHP Deprecated:  WPCF7_TagGenerator::add(): Use of tag generator instances older than version 2 is deprecated. Version 1 instance (reCaptcha) detected. in /home2/mkstecfw/jadespaceglobal.com/wp-includes/functions.php on line 6170
+[19-Aug-2026 08:25:34 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[19-Aug-2026 09:36:45 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
+[19-Aug-2026 10:23:03 UTC] PHP Warning:  Undefined array key "rzp_webhook_data" in /home2/mkstecfw/jadespaceglobal.com/wp-content/plugins/woo-razorpay/includes/razorpay-webhook.php on line 210
