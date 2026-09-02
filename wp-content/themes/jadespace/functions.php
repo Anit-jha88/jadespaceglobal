@@ -1,5 +1,5 @@
 <?php
-//require_once(ABSPATH . 'phpqrcode/qrlib.php');
+
 
 /**
  * TwentyTen functions and definitions
