@@ -8,7 +8,7 @@
  */
 
 /** Sets up the WordPress Environment. */
-require __DIR__ . '/wp-load.php';
+require __DIR__ . '/wp-load.php'; 
 
 add_filter( 'wp_robots', 'wp_robots_no_robots' );
 
