@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress Signup Page
+ * WordPress Signup Page 
  *
  * Handles the user registration and site creation process for multisite installations.
  *
