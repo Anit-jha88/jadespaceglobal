@@ -1,7 +1,7 @@
 <?php
 /**
  * WordPress Signup Page 
- *
+ * 
  * Handles the user registration and site creation process for multisite installations.
  *
  * @package WordPress
